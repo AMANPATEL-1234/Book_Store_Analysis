@@ -1,4 +1,4 @@
-# 📚 Book Data Scraper & Insights Dashboard
+# 📚 Book Data Scraper & Insights Dashboards
 
 A project where I scraped data from an online book website and analyzed it using **Python**, **SQL**, and **data visualization tools** to uncover key trends and insights.
 
