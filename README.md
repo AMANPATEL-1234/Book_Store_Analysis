@@ -38,6 +38,3 @@ Here are a few insights extracted:
 
 *(More insights are available in the analysis notebook.)*
 
-
-## 📁 Project Structure
-
